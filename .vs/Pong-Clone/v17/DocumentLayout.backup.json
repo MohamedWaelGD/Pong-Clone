@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Unity\\Projects\\Pong-Clone\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{367817A6-846E-92C1-03B1-5B42C0D1230E}|Assembly-CSharp.csproj|E:\\Unity\\Projects\\Pong-Clone\\assets\\scripts\\players\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{367817A6-846E-92C1-03B1-5B42C0D1230E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\players\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{367817A6-846E-92C1-03B1-5B42C0D1230E}|Assembly-CSharp.csproj|E:\\Unity\\Projects\\Pong-Clone\\assets\\scripts\\ui\\gameui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{367817A6-846E-92C1-03B1-5B42C0D1230E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\gameui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{367817A6-846E-92C1-03B1-5B42C0D1230E}|Assembly-CSharp.csproj|E:\\Unity\\Projects\\Pong-Clone\\assets\\scripts\\ball\\ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{367817A6-846E-92C1-03B1-5B42C0D1230E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ball\\ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{367817A6-846E-92C1-03B1-5B42C0D1230E}|Assembly-CSharp.csproj|E:\\Unity\\Projects\\Pong-Clone\\assets\\scripts\\game manager\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{367817A6-846E-92C1-03B1-5B42C0D1230E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game manager\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{367817A6-846E-92C1-03B1-5B42C0D1230E}|Assembly-CSharp.csproj|e:\\unity\\projects\\pong-clone\\assets\\scripts\\ball\\ballbadlebounce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{367817A6-846E-92C1-03B1-5B42C0D1230E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ball\\ballbadlebounce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{367817A6-846E-92C1-03B1-5B42C0D1230E}|Assembly-CSharp.csproj|E:\\Unity\\Projects\\Pong-Clone\\assets\\scripts\\players\\aimovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{367817A6-846E-92C1-03B1-5B42C0D1230E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\players\\aimovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ball.cs",
+              "DocumentMoniker": "E:\\Unity\\Projects\\Pong-Clone\\Assets\\Scripts\\Ball\\Ball.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Ball\\Ball.cs",
+              "ToolTip": "E:\\Unity\\Projects\\Pong-Clone\\Assets\\Scripts\\Ball\\Ball.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Ball\\Ball.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowDMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T09:33:48.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BallBadleBounce.cs",
+              "DocumentMoniker": "E:\\Unity\\Projects\\Pong-Clone\\Assets\\Scripts\\Ball\\BallBadleBounce.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Ball\\BallBadleBounce.cs",
+              "ToolTip": "E:\\Unity\\Projects\\Pong-Clone\\Assets\\Scripts\\Ball\\BallBadleBounce.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Ball\\BallBadleBounce.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T09:53:26.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "E:\\Unity\\Projects\\Pong-Clone\\Assets\\Scripts\\Players\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Players\\PlayerMovement.cs",
+              "ToolTip": "E:\\Unity\\Projects\\Pong-Clone\\Assets\\Scripts\\Players\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Players\\PlayerMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T09:31:43.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AIMovement.cs",
+              "DocumentMoniker": "E:\\Unity\\Projects\\Pong-Clone\\Assets\\Scripts\\Players\\AIMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Players\\AIMovement.cs",
+              "ToolTip": "E:\\Unity\\Projects\\Pong-Clone\\Assets\\Scripts\\Players\\AIMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Players\\AIMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T09:21:49.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameState.cs",
+              "DocumentMoniker": "E:\\Unity\\Projects\\Pong-Clone\\Assets\\Scripts\\Game Manager\\GameState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game Manager\\GameState.cs",
+              "ToolTip": "E:\\Unity\\Projects\\Pong-Clone\\Assets\\Scripts\\Game Manager\\GameState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game Manager\\GameState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T09:13:47.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameUI.cs",
+              "DocumentMoniker": "E:\\Unity\\Projects\\Pong-Clone\\Assets\\Scripts\\UI\\GameUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\GameUI.cs",
+              "ToolTip": "E:\\Unity\\Projects\\Pong-Clone\\Assets\\Scripts\\UI\\GameUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\GameUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAACFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T09:13:09.473Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
